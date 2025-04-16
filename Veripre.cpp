@@ -1,3 +1,19 @@
+/*
+  Nombre del archivo: Veripre.cpp
+  Copyright (C) 2025 Mauricio Sebastian Araya Pavela (Mapzero)
+
+  Este programa es software libre: puedes redistribuirlo y/o modificarlo
+  bajo los términos de la Licencia Pública General Affero de GNU
+  publicada por la Free Software Foundation versión 3.
+
+  Este programa se distribuye con la esperanza de que sea útil,
+  pero SIN GARANTÍA ALGUNA; ni siquiera la garantía implícita
+  de COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR.
+
+  Para más detalles, consulta la Licencia Pública General Affero de GNU.
+  Puedes verla en: <https://www.gnu.org/licenses/>.
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
